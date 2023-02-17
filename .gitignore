@@ -1,0 +1,6 @@
+*.txt
+*.md
+*.pkl
+*.mhd
+*.raw
+__pycache__/
